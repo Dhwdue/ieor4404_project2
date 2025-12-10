@@ -10,6 +10,3 @@ This repository contains the code and data used to analyze the draft NBA schedul
 
 ## Reproducibility
 All models run using Python, Gurobi, and the data included in this repository.
-
-## Contact
-For questions, please reach out via GitHub Issues.
